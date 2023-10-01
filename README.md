@@ -63,7 +63,6 @@ Type-on-Strap
 |   ├── gallery.md             # Gallery page for your photos
 |   ├── portfolio.md	       # Portfolio page for your projects
 |   ├── search.md	       # Search page
-|   └── tags.md                # The tag page
 ├── _config.yml                # sample configuration
 ├── _data.yml
 |  ├── authors.yml             # Update the post authors configurations 
