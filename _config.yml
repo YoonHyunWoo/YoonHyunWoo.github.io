@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/hananyang"
-url: "https://YoonHyunWoo.github.io"
+baseurl: "" 
+url: "https://YoonHyunWoo.github.io"  
 
 # THEME-SPECIFIC CONFIGURATION
 title: 하나냥                                    # site's title
